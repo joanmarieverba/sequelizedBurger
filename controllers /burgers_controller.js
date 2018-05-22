@@ -2,6 +2,10 @@ let express = require("express");
 
 let router = express.Router();
 
+// Requiring our models
+let db = require("../models");
+
+
 // Create all our routes and set up logic within those routes where required.
 router.get("/", function (req, res) {
     db.burger.findAll({}).then(function (data) {
