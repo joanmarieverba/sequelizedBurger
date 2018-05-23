@@ -1,7 +1,7 @@
 # burger
 Class exercise: burger restaurant  
 
-A MySQL application  
+A MySQL application using sequelized
 
 Here's how it works:   
 1. Enter the name of a burger in the input field. Click on the "submit" button.  
