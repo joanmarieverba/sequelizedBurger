@@ -1,4 +1,4 @@
-# burger
+# Sequelized burger
 Class exercise: burger restaurant  
 
 A MySQL application using sequelized. Also used handlebars for the front end.  
